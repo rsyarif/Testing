@@ -4,4 +4,5 @@ testing newbranch
 
 line 2 newbranch
 
+line 3 newbranch2
 
