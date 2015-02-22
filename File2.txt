@@ -1,1 +1,3 @@
 line newbranch2
+
+changes 
